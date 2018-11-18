@@ -38,7 +38,5 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code.
 
-## Acknowledgments
-* **Special thanks to Udacity Team**
 
 
